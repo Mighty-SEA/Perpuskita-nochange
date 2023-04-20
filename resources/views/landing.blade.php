@@ -72,7 +72,7 @@
 
                     <li class="header-menu__list-item ">
                         <a class="link    " href="#" target="_self">
-                            <span class="link__text">Productsaaa</span> </a>
+                            <span class="link__text">Product</span> </a>
 
                     </li>
 
