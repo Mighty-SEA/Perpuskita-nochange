@@ -127,7 +127,7 @@
                 <h1 class="long-title" style="font-size:80px">PERPUS<biru style="color:rgb(92, 128, 245)">Kita</biru>
                 </h1>
                 <h3 class="resources__subtitle">Layanan penyedia buku terbanyak di seluruh indonesia</h3>
-                <h3 style="color:red">gunakan "php artisan db:seed" untuk menampilkan gambarnya ini branch 1</h3>
+                <h3 style="color:red">gunakan "php artisan db:seed" untuk menampilkan gambarnya</h3>
 
             </div>
         </div>
